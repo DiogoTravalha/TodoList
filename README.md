@@ -11,7 +11,6 @@ Projeto criado para estudo. Objetivo do TodoList e criar uma lista de tarefas.
 Funcionalidades:
 
 - [ ] Adicionar
-- [ ] Remover
 - [ ] Editar
 - [ ] Deletar
 
